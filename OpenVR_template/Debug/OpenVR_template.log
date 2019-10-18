@@ -1,0 +1,2 @@
+﻿hellovr_opengl_main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenVR_template.vcxproj -> C:\Users\Sebastian\Documents\openvr_template\Debug\OpenVR_template.exe
